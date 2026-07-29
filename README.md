@@ -112,7 +112,7 @@ I'm a passionate software developer who enjoys building scalable applications, s
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bontha-shalemu-raju-b525b2385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 Email: bonthashalemurajuAgmail.com
+- 📧 Email: bonthashalemuraju@gmail.com
 - discord:https://discord.com/channels/@me
 
 ---
